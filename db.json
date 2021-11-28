@@ -7,6 +7,10 @@
       "id": "1",
       "name": "Dr. John Doe",
       "org": "Kings London Hospital",
+      "org1": "Kings London Hospital",
+      "org4": "Kings London Hospital",
+      "org2": "Kings London Hospital",
+      "org3": "Kings London Hospital",
       "speciality": "BDS, MDS - Spondylolisthesis",
       "availabilities": {
         "sun": "10:00 AM - 06:00 PM",
@@ -18,6 +22,10 @@
       "id": "2",
       "name": "Dr. Mary Ellis",
       "org": "ABC Hospital",
+      "org1": "Kings London Hospital",
+      "org4": "Kings London Hospital",
+      "org2": "Kings London Hospital",
+      "org3": "Kings London Hospital",
       "speciality": "M.D, M.S - Oral Maxillofacial Surgery",
       "availabilities": {
         "sun": "10:00 AM - 06:00 PM",
@@ -30,6 +38,10 @@
       "id": "3",
       "name": "Dr. William A. Abdu",
       "org": "Children’s Hospital",
+      "org1": "Kings London Hospital",
+      "org4": "Kings London Hospital",
+      "org2": "Kings London Hospital",
+      "org3": "Kings London Hospital",
       "speciality": "M.D, M.S - Spondylotic Myelopathy",
       "availabilities": {
         "sun": "10:00 AM - 01:00 PM",
@@ -43,6 +55,10 @@
       "id": "4",
       "name": "Dr. Myles. B. Abbott",
       "org": "Medstar Harbor Hospital",
+      "org1": "Kings London Hospital",
+      "org4": "Kings London Hospital",
+      "org2": "Kings London Hospital",
+      "org3": "Kings London Hospital",
       "speciality": "M.D - Oral Maxillofacial Surgery",
       "availabilities": {
         "sun": "09:00 AM - 01:00 PM",
