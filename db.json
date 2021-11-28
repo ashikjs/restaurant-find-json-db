@@ -3,657 +3,583 @@
     "name": "Ashik"
   },
   "restaurants": [
+    {
+      "fsq_id": "4c5814257329c92817379080",
+      "categories": [
         {
-          "fsq_id": "4c5814257329c92817379080",
-          "categories": [
-            {
-              "id": 13276,
-              "name": "Sushi Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2394,
-          "geocodes": {
-            "main": {
-              "latitude": 23.788599314535148,
-              "longitude": 90.42053610354871
-            }
-          },
-          "location": {
-            "address": "House -24C, Road -113A, Gulshan -2",
-            "country": "BD",
-            "locality": "Dhaka",
-            "postcode": "1213",
-            "region": "Dhaka Division"
-          },
-          "name": "Izumi",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "55747c2e498eef85b23fdd0f",
-          "categories": [
-            {
-              "id": 13035,
-              "name": "Coffee Shop",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1383,
-          "geocodes": {
-            "main": {
-              "latitude": 23.790160229621424,
-              "longitude": 90.4080981016159
-            }
-          },
-          "location": {
-            "address": "2nd Floor, Point 11, House 25, Road 11, Block H, Banani",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "neighborhood": [
-              "Banani"
-            ],
-            "postcode": "1213",
-            "region": "Dhaka Division"
-          },
-          "name": "Columbus coffee",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "5670eeda498efccf880ad543",
-          "categories": [
-            {
-              "id": 13035,
-              "name": "Coffee Shop",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1959,
-          "geocodes": {
-            "main": {
-              "latitude": 23.78582613439328,
-              "longitude": 90.41698591411128
-            }
-          },
-          "location": {
-            "address": "53 Gulshan Avenue",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Gulshan 2",
-            "postcode": "1212",
-            "region": "Dhaka Division"
-          },
-          "name": "North End Coffee Roasters @ Cityscape Tower",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4dc528f9e4cd169dc644a25f",
-          "categories": [
-            {
-              "id": 13034,
-              "name": "Café",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2972,
-          "geocodes": {
-            "main": {
-              "latitude": 23.793627604936788,
-              "longitude": 90.4243636378673
-            }
-          },
-          "location": {
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "postcode": "1212",
-            "region": "Dhaka Division"
-          },
-          "name": "North End Coffee Roasters",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "5662e832498e1563b69e63ee",
-          "categories": [
-            {
-              "id": 13034,
-              "name": "Café",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2506,
-          "geocodes": {
-            "main": {
-              "latitude": 23.800364648171378,
-              "longitude": 90.41184933456084
-            }
-          },
-          "location": {
-            "address": "175 Gulshan Avenue",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Gulshan",
-            "postcode": "1212",
-            "region": "Dhaka Division"
-          },
-          "name": "Butlers Chocolate Cafe",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "5526a042498eb90a6626619c",
-          "categories": [
-            {
-              "id": 13027,
-              "name": "Bistro",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2522,
-          "geocodes": {
-            "main": {
-              "latitude": 23.796045849649897,
-              "longitude": 90.41737287555931
-            }
-          },
-          "location": {
-            "address": "NE 12 North Ave.",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "Bistro E",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4d2c35a6068e8cfaa2e9e94c",
-          "categories": [
-            {
-              "id": 13072,
-              "name": "Asian Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1636,
-          "geocodes": {
-            "main": {
-              "latitude": 23.79226840677251,
-              "longitude": 90.40930676140928
-            }
-          },
-          "location": {
-            "address": "Road 17, house 66",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "neighborhood": [
-              "Gulshan, Dhaka"
-            ],
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "Time Out",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "574c40bc498eaa071c56ecd7",
-          "categories": [
-            {
-              "id": 13034,
-              "name": "Café",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1835,
-          "geocodes": {
-            "main": {
-              "latitude": 23.78205374160135,
-              "longitude": 90.41633651810209
-            }
-          },
-          "location": {
-            "country": "BD",
-            "cross_street": "",
-            "postcode": ""
-          },
-          "name": "North End Coffee Roasters",
-          "related_places": {
-            "parent": {
-              "fsq_id": "5572dbdf498efff83b168237",
-              "name": "Lotus Kamal Tower 2"
-            }
-          },
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "5326ae5011d2f80cb8cebfd7",
-          "categories": [
-            {
-              "id": 13199,
-              "name": "Indian Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1356,
-          "geocodes": {
-            "main": {
-              "latitude": 23.791372538665602,
-              "longitude": 90.40617976651895
-            }
-          },
-          "location": {
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "Tarka",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "55f965f8498e8148faea8089",
-          "categories": [
-            {
-              "id": 13035,
-              "name": "Coffee Shop",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2935,
-          "geocodes": {
-            "main": {
-              "latitude": 23.8042126256089,
-              "longitude": 90.41308196558468
-            }
-          },
-          "location": {
-            "address": "Road 71",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "Gloria Jean’s Coffees",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "53c275de498eb88f6b034dd2",
-          "categories": [
-            {
-              "id": 13072,
-              "name": "Asian Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1629,
-          "geocodes": {
-            "main": {
-              "latitude": 23.792973805391178,
-              "longitude": 90.40830965626965
-            }
-          },
-          "location": {
-            "country": "BD",
-            "cross_street": "",
-            "postcode": ""
-          },
-          "name": "Rice and Noodle",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4cd55a1aaeb1224b4ccb21ff",
-          "categories": [
-            {
-              "id": 13276,
-              "name": "Sushi Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1930,
-          "geocodes": {
-            "main": {
-              "latitude": 23.792228665943284,
-              "longitude": 90.4132536654692
-            }
-          },
-          "location": {
-            "address": "House -27, Road -35, Gulshan -1",
-            "country": "BD",
-            "locality": "Dhaka",
-            "postcode": "1213",
-            "region": "Dhaka Division"
-          },
-          "name": "Samdado",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "51f66832498e60033a2ab813",
-          "categories": [
-            {
-              "id": 13289,
-              "name": "Korean Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/korean_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2144,
-          "geocodes": {
-            "main": {
-              "latitude": 23.797278725195497,
-              "longitude": 90.41048092756878
-            }
-          },
-          "location": {
-            "country": "BD",
-            "cross_street": "",
-            "postcode": ""
-          },
-          "name": "Goong",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4dababff6e81162ae7f2a90d",
-          "categories": [
-            {
-              "id": 13072,
-              "name": "Asian Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 3798,
-          "geocodes": {
-            "main": {
-              "latitude": 23.753634591761628,
-              "longitude": 90.3767012726286
-            }
-          },
-          "location": {
-            "address": "House#2",
-            "country": "BD",
-            "cross_street": "Road#13 new Dhanmondi R/A",
-            "locality": "Dhaka",
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "Tehari Ghar",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4e6b38d3227162c38ec51ae9",
-          "categories": [
-            {
-              "id": 13007,
-              "name": "Beer Garden",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2553,
-          "geocodes": {
-            "main": {
-              "latitude": 23.793683517449622,
-              "longitude": 90.41960934419907
-            }
-          },
-          "location": {
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "German Club",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4bf390083f86c9b6ce4ab21c",
-          "categories": [
-            {
-              "id": 13072,
-              "name": "Asian Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1404,
-          "geocodes": {
-            "main": {
-              "latitude": 23.793330075666095,
-              "longitude": 90.40322404501005
-            }
-          },
-          "location": {
-            "address": "House #15, Road #17, Block #C, Banani",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "Star Kabab & Restaurant",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4c21c80d9a67a5932b72db87",
-          "categories": [
-            {
-              "id": 13031,
-              "name": "Burger Joint",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 2132,
-          "geocodes": {
-            "main": {
-              "latitude": 23.793970300881224,
-              "longitude": 90.41426003056225
-            }
-          },
-          "location": {
-            "address": "Metropolitan Shopping Plaza, shop 21-22, road 46",
-            "country": "BD",
-            "cross_street": "Gulshan 2",
-            "locality": "Dhaka",
-            "postcode": "1212",
-            "region": "Dhaka Division"
-          },
-          "name": "American Burger, Gulshan",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "5128d616e4b0ac94ea40ba1d",
-          "categories": [
-            {
-              "id": 13002,
-              "name": "Bakery",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 3586,
-          "geocodes": {
-            "main": {
-              "latitude": 23.75275735959935,
-              "longitude": 90.38230975485479
-            }
-          },
-          "location": {
-            "address": "19/4 West Panthapath",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "postcode": "1215",
-            "region": "Dhaka Division"
-          },
-          "name": "Sausly's Pantho Path",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "506ed31ee4b002a9400fd89b",
-          "categories": [
-            {
-              "id": 13035,
-              "name": "Coffee Shop",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1868,
-          "geocodes": {
-            "main": {
-              "latitude": 23.77920048205812,
-              "longitude": 90.4164934786589
-            }
-          },
-          "location": {
-            "address": "Gulshan 1",
-            "country": "BD",
-            "cross_street": "",
-            "locality": "Dhaka",
-            "neighborhood": [
-              "Gulshan"
-            ],
-            "postcode": "1212",
-            "region": "Dhaka Division"
-          },
-          "name": "Gloria Jean's Coffee",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
-        },
-        {
-          "fsq_id": "4b996058f964a520cc7635e3",
-          "categories": [
-            {
-              "id": 13145,
-              "name": "Fast Food Restaurant",
-              "icon": {
-                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
-                "suffix": ".png"
-              }
-            }
-          ],
-          "chains": [],
-          "distance": 1019,
-          "geocodes": {
-            "main": {
-              "latitude": 23.775472388007763,
-              "longitude": 90.39076659453119
-            }
-          },
-          "location": {
-            "address": "New Airport Rd",
-            "country": "BD",
-            "cross_street": "23.775542,90.390404",
-            "locality": "Dhaka",
-            "postcode": "",
-            "region": "Dhaka Division"
-          },
-          "name": "Captains World",
-          "related_places": {},
-          "timezone": "Asia/Dhaka"
+          "id": 13276,
+          "name": "Sushi Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+            "suffix": ".png"
+          }
         }
       ],
-  "doctor": {
-    "id": "7",
-    "name": "Dr. Mark. F. Aaron",
-    "org": "Duke University School of Medicine",
-    "speciality": "M.D. - cardiologists",
-    "availabilities": {
-      "sat": "10:00 AM - 01:00 PM",
-      "tue": "11:00 AM - 06:00 PM",
-      "wed": "06:00 PM - 01:00 PM"
+      "distance": 2394,
+      "geocodes": {
+        "main": {
+          "latitude": 23.788599314535148,
+          "longitude": 90.42053610354871
+        }
+      },
+      "location": {
+        "address": "House -24C, Road -113A, Gulshan -2",
+        "country": "BD",
+        "locality": "Dhaka",
+        "postcode": "1213",
+        "region": "Dhaka Division"
+      },
+      "name": "Izumi"
     },
-    "visitDurationInMin": 15
+    {
+      "fsq_id": "55747c2e498eef85b23fdd0f",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1383,
+      "geocodes": {
+        "main": {
+          "latitude": 23.790160229621424,
+          "longitude": 90.4080981016159
+        }
+      },
+      "location": {
+        "address": "2nd Floor, Point 11, House 25, Road 11, Block H, Banani",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "neighborhood": [
+          "Banani"
+        ],
+        "postcode": "1213",
+        "region": "Dhaka Division"
+      },
+      "name": "Columbus coffee"
+    },
+    {
+      "fsq_id": "5670eeda498efccf880ad543",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1959,
+      "geocodes": {
+        "main": {
+          "latitude": 23.78582613439328,
+          "longitude": 90.41698591411128
+        }
+      },
+      "location": {
+        "address": "53 Gulshan Avenue",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Gulshan 2",
+        "postcode": "1212",
+        "region": "Dhaka Division"
+      },
+      "name": "North End Coffee Roasters @ Cityscape Tower"
+    },
+    {
+      "fsq_id": "4dc528f9e4cd169dc644a25f",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2972,
+      "geocodes": {
+        "main": {
+          "latitude": 23.793627604936788,
+          "longitude": 90.4243636378673
+        }
+      },
+      "location": {
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "postcode": "1212",
+        "region": "Dhaka Division"
+      },
+      "name": "North End Coffee Roasters"
+    },
+    {
+      "fsq_id": "5662e832498e1563b69e63ee",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2506,
+      "geocodes": {
+        "main": {
+          "latitude": 23.800364648171378,
+          "longitude": 90.41184933456084
+        }
+      },
+      "location": {
+        "address": "175 Gulshan Avenue",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Gulshan",
+        "postcode": "1212",
+        "region": "Dhaka Division"
+      },
+      "name": "Butlers Chocolate Cafe"
+    },
+    {
+      "fsq_id": "5526a042498eb90a6626619c",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2522,
+      "geocodes": {
+        "main": {
+          "latitude": 23.796045849649897,
+          "longitude": 90.41737287555931
+        }
+      },
+      "location": {
+        "address": "NE 12 North Ave.",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "Bistro E"
+    },
+    {
+      "fsq_id": "4d2c35a6068e8cfaa2e9e94c",
+      "categories": [
+        {
+          "id": 13072,
+          "name": "Asian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1636,
+      "geocodes": {
+        "main": {
+          "latitude": 23.79226840677251,
+          "longitude": 90.40930676140928
+        }
+      },
+      "location": {
+        "address": "Road 17, house 66",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "neighborhood": [
+          "Gulshan, Dhaka"
+        ],
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "Time Out"
+    },
+    {
+      "fsq_id": "574c40bc498eaa071c56ecd7",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1835,
+      "geocodes": {
+        "main": {
+          "latitude": 23.78205374160135,
+          "longitude": 90.41633651810209
+        }
+      },
+      "location": {
+        "country": "BD",
+        "cross_street": "",
+        "postcode": ""
+      },
+      "name": "North End Coffee Roasters"
+    },
+    {
+      "fsq_id": "5326ae5011d2f80cb8cebfd7",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1356,
+      "geocodes": {
+        "main": {
+          "latitude": 23.791372538665602,
+          "longitude": 90.40617976651895
+        }
+      },
+      "location": {
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "Tarka"
+    },
+    {
+      "fsq_id": "55f965f8498e8148faea8089",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2935,
+      "geocodes": {
+        "main": {
+          "latitude": 23.8042126256089,
+          "longitude": 90.41308196558468
+        }
+      },
+      "location": {
+        "address": "Road 71",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "Gloria Jean’s Coffees"
+    },
+    {
+      "fsq_id": "53c275de498eb88f6b034dd2",
+      "categories": [
+        {
+          "id": 13072,
+          "name": "Asian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1629,
+      "geocodes": {
+        "main": {
+          "latitude": 23.792973805391178,
+          "longitude": 90.40830965626965
+        }
+      },
+      "location": {
+        "country": "BD",
+        "cross_street": "",
+        "postcode": ""
+      },
+      "name": "Rice and Noodle"
+    },
+    {
+      "fsq_id": "4cd55a1aaeb1224b4ccb21ff",
+      "categories": [
+        {
+          "id": 13276,
+          "name": "Sushi Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1930,
+      "geocodes": {
+        "main": {
+          "latitude": 23.792228665943284,
+          "longitude": 90.4132536654692
+        }
+      },
+      "location": {
+        "address": "House -27, Road -35, Gulshan -1",
+        "country": "BD",
+        "locality": "Dhaka",
+        "postcode": "1213",
+        "region": "Dhaka Division"
+      },
+      "name": "Samdado"
+    },
+    {
+      "fsq_id": "51f66832498e60033a2ab813",
+      "categories": [
+        {
+          "id": 13289,
+          "name": "Korean Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/korean_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2144,
+      "geocodes": {
+        "main": {
+          "latitude": 23.797278725195497,
+          "longitude": 90.41048092756878
+        }
+      },
+      "location": {
+        "country": "BD",
+        "cross_street": "",
+        "postcode": ""
+      },
+      "name": "Goong"
+    },
+    {
+      "fsq_id": "4dababff6e81162ae7f2a90d",
+      "categories": [
+        {
+          "id": 13072,
+          "name": "Asian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 3798,
+      "geocodes": {
+        "main": {
+          "latitude": 23.753634591761628,
+          "longitude": 90.3767012726286
+        }
+      },
+      "location": {
+        "address": "House#2",
+        "country": "BD",
+        "cross_street": "Road#13 new Dhanmondi R/A",
+        "locality": "Dhaka",
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "Tehari Ghar"
+    },
+    {
+      "fsq_id": "4e6b38d3227162c38ec51ae9",
+      "categories": [
+        {
+          "id": 13007,
+          "name": "Beer Garden",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2553,
+      "geocodes": {
+        "main": {
+          "latitude": 23.793683517449622,
+          "longitude": 90.41960934419907
+        }
+      },
+      "location": {
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "German Club"
+    },
+    {
+      "fsq_id": "4bf390083f86c9b6ce4ab21c",
+      "categories": [
+        {
+          "id": 13072,
+          "name": "Asian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1404,
+      "geocodes": {
+        "main": {
+          "latitude": 23.793330075666095,
+          "longitude": 90.40322404501005
+        }
+      },
+      "location": {
+        "address": "House #15, Road #17, Block #C, Banani",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "Star Kabab & Restaurant"
+    },
+    {
+      "fsq_id": "4c21c80d9a67a5932b72db87",
+      "categories": [
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 2132,
+      "geocodes": {
+        "main": {
+          "latitude": 23.793970300881224,
+          "longitude": 90.41426003056225
+        }
+      },
+      "location": {
+        "address": "Metropolitan Shopping Plaza, shop 21-22, road 46",
+        "country": "BD",
+        "cross_street": "Gulshan 2",
+        "locality": "Dhaka",
+        "postcode": "1212",
+        "region": "Dhaka Division"
+      },
+      "name": "American Burger, Gulshan"
+    },
+    {
+      "fsq_id": "5128d616e4b0ac94ea40ba1d",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 3586,
+      "geocodes": {
+        "main": {
+          "latitude": 23.75275735959935,
+          "longitude": 90.38230975485479
+        }
+      },
+      "location": {
+        "address": "19/4 West Panthapath",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "postcode": "1215",
+        "region": "Dhaka Division"
+      },
+      "name": "Sausly's Pantho Path"
+    },
+    {
+      "fsq_id": "506ed31ee4b002a9400fd89b",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1868,
+      "geocodes": {
+        "main": {
+          "latitude": 23.77920048205812,
+          "longitude": 90.4164934786589
+        }
+      },
+      "location": {
+        "address": "Gulshan 1",
+        "country": "BD",
+        "cross_street": "",
+        "locality": "Dhaka",
+        "neighborhood": [
+          "Gulshan"
+        ],
+        "postcode": "1212",
+        "region": "Dhaka Division"
+      },
+      "name": "Gloria Jean's Coffee"
+    },
+    {
+      "fsq_id": "4b996058f964a520cc7635e3",
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "distance": 1019,
+      "geocodes": {
+        "main": {
+          "latitude": 23.775472388007763,
+          "longitude": 90.39076659453119
+        }
+      },
+      "location": {
+        "address": "New Airport Rd",
+        "country": "BD",
+        "cross_street": "23.775542,90.390404",
+        "locality": "Dhaka",
+        "postcode": "",
+        "region": "Dhaka Division"
+      },
+      "name": "Captains World"
+    }
+  ],
+  "restaurant": {
+    "Name": "Test R"
   }
 }
